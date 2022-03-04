@@ -9,19 +9,19 @@ body {
 	-webkit-font-smoothing: antialiased;
 	color: #664949;
 	background: #6CD8FF url(../img/bg.png) 0 100% repeat-x;
-	transition: background .3s;
+	transition: background 1.3s;
 }
 
 #bg1 {
 	height: 100%;
 	background: url(../img/bg1.png) 0 100% repeat-x;
-	transition: background .3s;
+	transition: background 1.3s;
 }
 
 #bg2 {
 	height: 100%;
 	background: url(../img/bg2.png) 0 100% repeat-x;
-	transition: background .3s;
+	transition: background 1.3s;
 }
 
 header h1 {
