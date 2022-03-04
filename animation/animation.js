@@ -6,7 +6,7 @@ function show() {
 }
 
 function hide() {
-    monster.fadeIn(1000)
+    monster.fadeOut(1000)
 }
 
 function moveRight() {
