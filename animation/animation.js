@@ -1,4 +1,3 @@
-var monster = $('#monster')
 function show() {
 }
 
